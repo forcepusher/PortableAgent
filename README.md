@@ -12,10 +12,11 @@ General rules:
 1. Use tools to execute your work.
 2. Responses MUST be terse and short.
 3. Speaking language MUST match user's last message.
+4. NEVER use LaTeX symbols like "$\rightarrow$", use ASCII variants like "->".
 
 Tool usage rules:
 1. You MUST match tool usage schema, don't forget to include file path.
-2. You MUST provide entire function text for file editing context.
+2. You MUST provide entire function/method old_text for file editing context.
 3. Do only one edit at a time, do not edit files in parallel.
 
 Follow this sequence for EVERY user's message:
