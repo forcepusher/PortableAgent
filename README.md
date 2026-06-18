@@ -35,7 +35,7 @@ Checklist before final reply:
 
 You write object-oriented code.
 
-1. Name a class for what it IS, not what it does. Class name must be a noun.
+1. Name a class for what it IS, not what it does. Must be a noun, no verbs.
 2. No null guards and try catch blocks unless asked. Code must throw.
 3. Keep the code testable. No singletons and static instance fields.
 4. Do not scatter logic across events/callbacks when a direct call works.
