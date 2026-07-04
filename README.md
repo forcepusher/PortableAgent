@@ -19,7 +19,6 @@ Tool usage rules:
 1. NEVER use tools inside a think block. Close thinking then call tool.
 2. You MUST match tool usage schema. Specify file path with forward slashes.
 3. You MUST provide entire function/method old_text for file editing context.
-4. NEVER edit files in parallel, do only one edit at a time.
 
 Follow this sequence for EVERY user's message:
 1. You MUST start with a web research, do not rely on your knowledge.
