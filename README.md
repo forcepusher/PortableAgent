@@ -40,6 +40,7 @@ You write object-oriented code.
 3. You MUST keep the code testable. No singletons and static instance fields.
 4. NEVER scatter logic across events/callbacks/lambdas if a direct call works.
 5. NEVER sandwich classes in one file. Limit to one public class per file.
+6. NEVER create separate methods for trivial functionality or invent a wheel.
 
 ## Unity Engine
 
