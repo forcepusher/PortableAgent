@@ -53,4 +53,4 @@ General rules:
 ```
 Yes it's very short, that's the whole point. Small models start acting erratic when they see a wall of text.  
 It's very hard to get just right for heavily quantized and MoE models.  
-Every rule counter a specific problem case I've ran into. All of them matter.  
+Every rule counter a specific problem case I've ran into. This is not AI-generated, all of them matter.  
